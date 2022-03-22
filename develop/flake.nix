@@ -9,7 +9,7 @@
   
   inputs.src-clang-develop.flake = false;
   inputs.src-clang-develop.owner = "samdmarshall";
-  inputs.src-clang-develop.ref   = "refs/heads/develop";
+  inputs.src-clang-develop.ref   = "develop";
   inputs.src-clang-develop.repo  = "libclang-nim";
   inputs.src-clang-develop.type  = "github";
   
