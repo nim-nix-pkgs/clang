@@ -11,6 +11,7 @@
   inputs.src-clang-develop.ref   = "refs/heads/develop";
   inputs.src-clang-develop.owner = "samdmarshall";
   inputs.src-clang-develop.repo  = "libclang-nim";
+  inputs.src-clang-develop.dir   = "";
   inputs.src-clang-develop.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

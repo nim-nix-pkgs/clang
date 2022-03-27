@@ -11,6 +11,7 @@
   inputs.src-clang-v0_59.ref   = "refs/tags/v0.59";
   inputs.src-clang-v0_59.owner = "samdmarshall";
   inputs.src-clang-v0_59.repo  = "libclang-nim";
+  inputs.src-clang-v0_59.dir   = "";
   inputs.src-clang-v0_59.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
