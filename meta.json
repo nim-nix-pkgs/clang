@@ -7,7 +7,7 @@
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/libclang-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/samdmarshall/libclang-nim/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/samdmarshall/libclang-nim/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
